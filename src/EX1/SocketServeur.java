@@ -18,7 +18,7 @@ public class SocketServeur {
         try {
 // Créer un socket serveur et le mettre en écoute
             ServerSocket serverSocket = new ServerSocket(port);
-// Accepter une connexion et créer le socket client
+// Accepter une connexion et créer le socket serveur
 
             Socket socket = serverSocket.accept();
 
