@@ -16,7 +16,7 @@ Dans le deuxième exercice, nous améliorons la communication en utilisant le co
 
 ### Fichiers :
 - `src/EX2/Client.java` : Code côté client pour l'envoi d'un objet sérialisable (voiture) au serveur.
-- `src/EX2/Server.java` : Code côté serveur pour la réception et la modification de l'objet Voiture.
+- `src/EX2/Serveur.java` : Code côté serveur pour la réception et la modification de l'objet Voiture.
 
 ## Exercice 3 : Échange de Données Utilisateur avec Hachage
 
@@ -24,5 +24,5 @@ Le troisième exercice implique l'établissement d'une connexion où le serveur 
 
 ### Fichiers :
 - `src/EX3/Client.java` : Code côté client pour l'envoi de données utilisateur au serveur.
-- `src/EX3/Server.java` : Code côté serveur pour la réception des données utilisateur, la génération d'un hachage et la réponse.
+- `src/EX3/Serveur.java` : Code côté serveur pour la réception des données utilisateur, la génération d'un hachage et la réponse.
 
